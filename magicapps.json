@@ -95,6 +95,12 @@
             "servicename": "nats-infrastructure"
         },  
         {
+            "name": "Nexi Infocast",
+            "port": 1248,
+            "web": "http://localhost:4335",
+            "servicename": "nexi-infocast"
+        },  
+        {
             "name": "SharePoint Hooks",
             "port": 2001,
             "web": "http://localhost:7001",
